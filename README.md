@@ -95,17 +95,17 @@ Exact values depend on your dataset run. Best model is automatically selected in
 🔮 6-month future sales forecast
 
 ->How to Run
-# 1. Clone the repo
+1. Clone the repo
 git clone https://github.com/YOUR_USERNAME/FUTURE_ML_01
 
-# 2. Install dependencies
+2. Install dependencies
 pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 
-# 3. Launch notebook
+3. Launch notebook
 jupyter notebook FUTURE_ML_01_Store_Sales_Forecasting.ipynb
 
-# 4. Download dataset from Kaggle
-# Place all CSV files (train, stores, oil, holidays) in the same folder
+4. Download dataset from Kaggle
+Place all CSV files (train, stores, oil, holidays) in the same folder
 
 ->License
 This project was completed as part of the Future Interns ML Internship Program.
